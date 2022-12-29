@@ -18,7 +18,7 @@ body {
 }
 
 a {
-  color: #4154f1;
+  color: #012970;
   text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: #4154f1;
+  color: #070c3b;
   text-transform: uppercase;
 }
 
@@ -380,7 +380,7 @@ section {
   top: 55px;
   right: 15px;
   bottom: 15px;
-  left: 15px;
+  left: 130px;
   padding: 10px 0;
   border-radius: 10px;
   background-color: #fff;
@@ -494,6 +494,7 @@ section {
 .hero .hero-img {
   text-align: right;
 }
+
 
 @media (min-width: 1024px) {
   .hero {
@@ -838,7 +839,7 @@ section {
 }
 
 .services .service-box.blue .read-more {
-  color: #2db6fa;
+  color: #050749;
 }
 
 .services .service-box.blue:hover {
